@@ -14,4 +14,4 @@ afterRefactoring은 옵저버 패턴이 적용된 코드를 담았습니다.
 발전을 위한 피드백은 언제나 환영입니다 🙌   
 
 ### 실행 방법
-각 디렉토리 내의 index.html을 Live Server를 이용해 실행합니다.
+각 디렉토리 내의 index.html을 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)를 이용해 실행합니다.
